@@ -1,4 +1,4 @@
 *.la
-lib/pkgconfig/
+cloog/lib/pkgconfig/
 *~
 *.py
